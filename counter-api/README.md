@@ -2,6 +2,8 @@
 
 We're going to build a counter API which exposes two endpoints using AWS Lambda, AWS API Gateway and AWS DynamoDB.
 
+![](images/diagram.png)
+
 ## Endpoint definitions
 
 ### /increase
